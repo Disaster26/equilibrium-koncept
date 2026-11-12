@@ -39,7 +39,7 @@ p{margin:0 0 14px}
 .przycisk-obrys:hover{background:var(--turkus-c);color:#fff}
 
 /* nagłówek */
-.naglowek{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid var(--linia);height:var(--nag)}
+.naglowek{position:sticky;top:0;z-index:65;background:#fff;border-bottom:1px solid var(--linia);height:var(--nag)}
 .naglowek-in{height:100%;width:min(1440px,100% - 40px);margin:0 auto;display:flex;align-items:center;gap:28px}
 .logo{display:inline-flex;flex-direction:column;text-decoration:none;color:var(--turkus);font:500 22px/0.92 'Cinzel',Georgia,serif;letter-spacing:.02em;flex:none}
 .logo span+span{letter-spacing:.055em}
